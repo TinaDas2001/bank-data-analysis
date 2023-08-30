@@ -1,0 +1,10 @@
+AMT_GOODS_PRICE                  1002
+AMT_INCOME_TOTAL                 2548
+DAYS_LAST_PHONE_CHANGE           3773
+AMT_CREDIT                       5603
+DAYS_ID_PUBLISH                  6168
+DAYS_EMPLOYED                   12574
+AMT_ANNUITY                     13672
+DAYS_REGISTRATION               15688
+DAYS_BIRTH                      17460
+EXT_SOURCE_2                   119831
